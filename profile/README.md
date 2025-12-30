@@ -7,7 +7,7 @@ The **Biomolecular-Design-Nexus** is a research-driven GitHub organization focus
 ---
 
 ## 🏗️ The MCP Framework
-We organize our research and implementations into **Multi-constraint/Method Platforms (MCPs)**. Each repository is designed to be a "one-stop shop" for a specific molecular modality, integrating existing SOTA models with our in-house innovations.
+We organize our research and implementations into ** Biomolecule Model Context Protocol (MCP) Packages **. Each repository is designed to be a "one-stop shop" for a specific molecular modality, integrating existing SOTA models with our in-house innovations.
 
 
 
