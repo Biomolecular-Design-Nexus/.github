@@ -34,4 +34,4 @@ We are an open-science initiative. We welcome contributions from:
 **Contact:** [charlesxu90@gmail.com]
 
 ---
-*“Designing the building blocks of life with mathematical precision.”*
+*“Designing the future building blocks of life with artificial intelligence (AI).”*
